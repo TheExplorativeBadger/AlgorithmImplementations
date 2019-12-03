@@ -7,8 +7,13 @@ ToDo:
 
 - Cryptographic Algorithms:
   
-- Dynamic Programming Algorithms:
-  - Duckworth-Lewis Algorithm
+- Programming Paradigm Algorithms:
+  - Backtracking
+  - Dynamic Programming
+  - Divide & Conquer
+  - Greedy Algorithms
+  - Hashing
+  - Recursion
   
 - Functional Algorithms:
   - Shortest Path in a Maze | Lee Algorithm

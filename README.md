@@ -46,7 +46,7 @@ ToDo:
   - Counting Sort
   - Topological Sort (in DAG)
   
-Tree Traversal:
+- Tree Traversal:
   - Inorder
   - Preorder
   - Postorder

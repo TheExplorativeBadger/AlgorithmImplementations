@@ -1,4 +1,4 @@
-# DAG Topological Sort Sort
+# DAG Topological Sort
 
 ## Description
 > 
